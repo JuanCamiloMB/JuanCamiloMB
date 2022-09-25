@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuanCamiloMB
-- 👀 I’m interested in cibersecurity and software development
-- 🌱 I’m currently in third term of System Engineer
+- 👀 I’m interested in cibersecurity, software development and front-end development
+- 🌱 I’m currently studying system engeneering at Universidad de Medellin
 - 💞️ I’m looking to collaborate on an enterprise that can inspire me.
 - 📫 Write me
 
