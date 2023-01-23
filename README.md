@@ -2,7 +2,7 @@
 - 👀 I’m interested in cibersecurity, software development and front-end development
 - 🌱 I’m currently studying system engeneering at Universidad de Medellin
 - 💞️ I’m looking to collaborate on an enterprise that can inspire me.
-- 📫 Write me
+- 📫 Text me
 
 <!---
 JuanCamiloMB/JuanCamiloMB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
