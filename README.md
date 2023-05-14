@@ -15,9 +15,6 @@ I am a student pursuing a degree in System Engineering from Universidad de Medel
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=JuanCamiloMB&icon=5&color=1)](https://visitcount.itsvg.in)
 
