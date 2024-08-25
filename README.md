@@ -19,4 +19,11 @@ I am a young tech entusiast with entreprenuer spirit.<br>Actually I am freelance
 ![](https://github-contributor-stats.vercel.app/api?username=JuanCamiloMB&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JuanCamiloMB/JuanCamiloMB/output/snake.svg" alt="Snake animation" />
+
+###
+
